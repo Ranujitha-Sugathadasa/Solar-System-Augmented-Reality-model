@@ -1,0 +1,33 @@
+{
+  "name": "com.zappar.uar",
+  "version": "3.2.6",
+  "displayName": "Universal AR",
+  "description": "Zappar's best in class Universal AR SDK for face tracking, image tracking, and instant world tracking, targeted for Web and mobile platforms.",
+  "documentationUrl" : "https://docs.zap.works/universal-ar/unity/",
+  "unity": "2019.1",
+  "unityRelease": "3f1",
+  "dependencies": {
+    "com.unity.editorcoroutines": "1.0.0"
+},
+  "samples": [
+        {
+            "displayName": "Examples",
+      	    "description": "Tracking sample scenes",
+            "path": "Samples~/Examples"
+        },
+        {
+          "displayName": "Examples (Scriptable Pipeline)",
+          "description": "Tracking sample scenes",
+          "path": "SamplesSRP~/Examples"
+      }
+    ],
+ "keywords": [
+    "UniversalAR",
+    "Zappar",
+    "ZCV"
+  ],
+  "author": {
+    "name": "Zappar",
+    "email": "shubham@zappar.com"
+  }
+}
