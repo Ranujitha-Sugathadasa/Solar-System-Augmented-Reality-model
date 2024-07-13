@@ -1,2 +1,6 @@
-# Solar-System-Augmented-Reality-model
-Created solar system AR model using Unity  and  c++ language used for the functional requirements for the model.
+# This repository contains AR lessons created using Unity.
+
+This repository contains interactive lessons in WebXR format
+
+- **Solar System**: Take a tour of our solar system.
+  [Launch Lesson](https://webxr.run/Y9JrVynJ4Myyx)
